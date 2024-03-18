@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author OWNER
- *
- */
-module programmers {
-}

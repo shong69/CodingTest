@@ -1,4 +1,4 @@
-package programmers;
+package step1;
 
 public class 붕대감기 {
     public int solution(int[] bandage, int health, int[][] attacks) {
